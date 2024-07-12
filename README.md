@@ -4,3 +4,4 @@ Abaixo vou deixar uma relação entre os repositórios com os fontes dos exercí
 
 1 - CountApplesAndOragens -> https://www.hackerrank.com/challenges/apple-and-orange/
 2 - Kangarro -> https://www.hackerrank.com/challenges/kangaroo/
+3 - BreakingRecords -> https://www.hackerrank.com/challenges/breaking-best-and-worst-record
