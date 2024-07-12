@@ -3,3 +3,4 @@
 Abaixo vou deixar uma relação entre os repositórios com os fontes dos exercícios e os links para os exercícios diretamente no HackerRank
 
 1 - CountApplesAndOragens -> https://www.hackerrank.com/challenges/apple-and-orange/
+2 - Kangarro -> https://www.hackerrank.com/challenges/kangaroo/
