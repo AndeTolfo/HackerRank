@@ -6,4 +6,6 @@ Abaixo vou deixar uma relação entre os repositórios com os fontes dos exercí
 
 2 - Kangarro -> https://www.hackerrank.com/challenges/kangaroo/
 
-3 - BreakingRecords -> https://www.hackerrank.com/challenges/breaking-best-and-worst-record
+3 - BreakingRecords -> https://www.hackerrank.com/challenges/breaking-best-and-worst-record/
+
+4 - Birthday -> https://www.hackerrank.com/challenges/the-birthday-bar/
